@@ -1,0 +1,45 @@
+.f18{font-size:18px !important;}
+.w5p{ width:5%;}
+.w10p{ width:10%;}
+.w40p{ width:40%;}
+.w45p{ width:45%;}
+.w80p{ width:80%;}
+.w100p{ width:100%;}
+.pd5{padding:5px;}
+.mt20{margin-top:20px;}
+.text-left{text-align:left !important;}
+img#logo{
+    max-height:50px !important;
+}
+
+ol.guide li{
+    font-size:1.3em;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+table tr.table-exam{
+    background-color: aliceblue;
+    height:200px;
+}
+
+table tr.table-exam th{
+    position: relative;
+    text-align:center;
+    vertical-align: middle;
+}
+div.textbox {
+    position: absolute;
+    left: 50%;
+    margin-left:-10px;
+    top:0;
+    margin-top:10px;
+}
+p.vertical {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+input.exam_chk{
+    width:30px;
+    height:30px;
+}
